@@ -46,7 +46,7 @@
         font-weight:bolder;
         font-family:cursive;
         background-image: linear-gradient(rgb(96, 255, 173) ,rgb(0, 255, 115));
-        width: 15%;
+        width: 150px;
         height: 45px;
         position: relative;
         top: -130px;
@@ -117,7 +117,7 @@
         font-weight:bolder;
         font-family:cursive;
         background-image: linear-gradient(rgb(96, 255, 173) ,rgb(0, 255, 115));
-        width: 12%;
+        width: 120px;
         height: 35px;
         position: relative;
         top: -30px;
@@ -189,11 +189,11 @@
         font-weight:bolder;
         font-family:cursive;
         background-image: linear-gradient(rgb(96, 255, 173) ,rgb(0, 255, 115));
-        width: 12%;
+        width: 100px;
         height: 35px;
         position: relative;
         top: -30px;
-        right: -600px;
+        right: -570px;
     }
 
     #LNWNamegameTop {
